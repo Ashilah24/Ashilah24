@@ -34,7 +34,7 @@
 </head>
 <body>
   <div class="editor">
-    <h1>✨ Bismillah, hi I’m <code>@Ashilah24</code></h1>
+    <h1>✨ Bismillah, hi people of the internet I’m <code>Hafizhah</code></h1>
 
     <div class="section">
       <span class="emoji">👩‍🎓</span> I’m interested in ...
